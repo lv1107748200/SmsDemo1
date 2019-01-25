@@ -1,15 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.Raizlabs.DBFlow:dbflow-4.2.4">
     <ANNOTATIONS>
-      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/dbflow-4.2.4.aar/260be031a495779280edcf12efe4a9a2/annotations.zip!/" />
+      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/dbflow-4.2.4.aar/8a73df7068484eac6afb25bc567bc8b6/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/dbflow-4.2.4.aar/260be031a495779280edcf12efe4a9a2/jars/classes.jar!/" />
-      <root url="file://D:/Android/.gradle/caches/transforms-1/files-1.1/dbflow-4.2.4.aar/260be031a495779280edcf12efe4a9a2/res" />
+      <root url="file://E:/Android/cacheGradle/caches/transforms-1/files-1.1/dbflow-4.2.4.aar/8a73df7068484eac6afb25bc567bc8b6/res" />
+      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/dbflow-4.2.4.aar/8a73df7068484eac6afb25bc567bc8b6/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/4.2.4/ef2a8720ef308f4c8f7b2a6a4e6dc424e86c128c/dbflow-4.2.4-sources.jar!/" />
+      <root url="jar://E:/Android/cacheGradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/4.2.4/ef2a8720ef308f4c8f7b2a6a4e6dc424e86c128c/dbflow-4.2.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

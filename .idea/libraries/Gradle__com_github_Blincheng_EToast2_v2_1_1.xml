@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.Blincheng:EToast2-v2.1.1">
     <CLASSES>
-      <root url="file://D:/Android/.gradle/caches/transforms-1/files-1.1/EToast2-v2.1.1.aar/7cf7b638f54fa12608ab533527a18996/res" />
-      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/EToast2-v2.1.1.aar/7cf7b638f54fa12608ab533527a18996/jars/classes.jar!/" />
+      <root url="file://E:/Android/cacheGradle/caches/transforms-1/files-1.1/EToast2-v2.1.1.aar/d2ba9ac860e69c85c4d3f857c8141e9f/res" />
+      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/EToast2-v2.1.1.aar/d2ba9ac860e69c85c4d3f857c8141e9f/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

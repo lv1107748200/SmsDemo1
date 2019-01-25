@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\BaseRecyclerViewAdapterHelper-2.9.46.aar\\252a2a42f7db577b8cbdcaaef3e5460f\\res\\values-en\\values-en.xml",
+                    "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\BaseRecyclerViewAdapterHelper-2.9.46.aar\\39bf82db8bb89f7f14dd399beb4b0188\\res\\values-en\\values-en.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

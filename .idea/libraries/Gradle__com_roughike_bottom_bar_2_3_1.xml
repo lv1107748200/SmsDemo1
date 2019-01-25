@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.roughike:bottom-bar-2.3.1">
     <CLASSES>
-      <root url="file://D:/Android/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/84b34989cdc70ce5a397660276526217/res" />
-      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/84b34989cdc70ce5a397660276526217/jars/classes.jar!/" />
+      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/752bb7424879843e719fa064560d182e/jars/classes.jar!/" />
+      <root url="file://E:/Android/cacheGradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/752bb7424879843e719fa064560d182e/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.roughike/bottom-bar/2.3.1/a24a34cb8478811e08615ea06a5c27d636bc7e43/bottom-bar-2.3.1-sources.jar!/" />
+      <root url="jar://E:/Android/cacheGradle/caches/modules-2/files-2.1/com.roughike/bottom-bar/2.3.1/a24a34cb8478811e08615ea06a5c27d636bc7e43/bottom-bar-2.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

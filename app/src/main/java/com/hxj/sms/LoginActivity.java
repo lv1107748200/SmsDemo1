@@ -41,8 +41,16 @@ public class LoginActivity  extends BaseActivity {
         return R.layout.activity_login;
     }
 
+    @Override
+    public void initData() {
+        super.initData();
 
-    private void login(String username,String password){
+        Intent intent = new Intent(LoginActivity.this,CardActivity.class);
+        startActivity(intent);
+        finish();
+    }
+
+    private void login(String username, String password){
 
         baseService.login(username, password, new HttpCallback<Object, BaseDataResponse<Object>>() {
             @Override

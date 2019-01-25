@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f8e12f044c1f47d2c5dc42c70cf16d7f\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    },
-                    "to": {
-                        "startLines": "3,4,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "116,186,257",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "181,252,320"
-                    }
-                },
-                {
-                    "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d0513b19743e21dd79f066000cb1db0e\\res\\values-land\\values-land.xml",
+                    "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -40,13 +23,30 @@
                     }
                 },
                 {
-                    "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\84b34989cdc70ce5a397660276526217\\res\\values-land\\values-land.xml",
+                    "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\752bb7424879843e719fa064560d182e\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "60",
                         "endOffsets": "111"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "116,186,257",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "181,252,320"
                     }
                 }
             ]
