@@ -14,7 +14,7 @@ import java.lang.Override;
 public class MainActivity_ViewBinding implements Unbinder {
   private MainActivity target;
 
-  private View view2131230761;
+  private View view2131230770;
 
   @UiThread
   public MainActivity_ViewBinding(MainActivity target) {
@@ -28,7 +28,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     View view;
     target.tv_card = Utils.findRequiredViewAsType(source, R.id.tv_card, "field 'tv_card'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_close, "method 'click'");
-    view2131230761 = view;
+    view2131230770 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,7 +46,7 @@ public class MainActivity_ViewBinding implements Unbinder {
 
     target.tv_card = null;
 
-    view2131230761.setOnClickListener(null);
-    view2131230761 = null;
+    view2131230770.setOnClickListener(null);
+    view2131230770 = null;
   }
 }

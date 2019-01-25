@@ -15,7 +15,7 @@ import java.lang.Override;
 public class LoginActivity_ViewBinding implements Unbinder {
   private LoginActivity target;
 
-  private View view2131230825;
+  private View view2131230835;
 
   @UiThread
   public LoginActivity_ViewBinding(LoginActivity target) {
@@ -31,7 +31,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     target.pass_et = Utils.findRequiredViewAsType(source, R.id.pass_et, "field 'pass_et'", EditText.class);
     view = Utils.findRequiredView(source, R.id.login_btn, "field 'login_btn' and method 'click'");
     target.login_btn = Utils.castView(view, R.id.login_btn, "field 'login_btn'", Button.class);
-    view2131230825 = view;
+    view2131230835 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -51,7 +51,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     target.pass_et = null;
     target.login_btn = null;
 
-    view2131230825.setOnClickListener(null);
-    view2131230825 = null;
+    view2131230835.setOnClickListener(null);
+    view2131230835 = null;
   }
 }

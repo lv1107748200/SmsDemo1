@@ -1,7 +1,13 @@
-#Thu Jan 24 12:50:12 CST 2019
-base.0=E\:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.1=classes2.dex
-renamed.1=classes2.dex
+#Fri Jan 25 18:20:54 CST 2019
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
 path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-base.1=E\:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.3=E\:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+base.2=E\:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=E\:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.0=E\:\\Internet\\Other\\SmsDemo1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0

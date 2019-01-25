@@ -86,6 +86,19 @@ attr backgroundStacked
 attr backgroundTint
 attr backgroundTintMode
 attr barLength
+attr bb_activeTabAlpha
+attr bb_activeTabColor
+attr bb_badgeBackgroundColor
+attr bb_badgesHideWhenActive
+attr bb_behavior
+attr bb_inActiveTabAlpha
+attr bb_inActiveTabColor
+attr bb_longPressHintsEnabled
+attr bb_showShadow
+attr bb_tabXmlResource
+attr bb_tabletMode
+attr bb_titleTextAppearance
+attr bb_titleTypeFace
 attr behavior_autoHide
 attr behavior_fitToContents
 attr behavior_hideable
@@ -603,6 +616,8 @@ attr windowNoTitle
 bool abc_action_bar_embed_tabs
 bool abc_allow_stacked_button_bar
 bool abc_config_actionMenuItemAllCaps
+bool bb_bottom_bar_is_portrait_mode
+bool bb_bottom_bar_is_tablet_mode
 bool mtrl_btn_textappearance_all_caps
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
@@ -637,6 +652,9 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color bar_grey
+color bb_darkBackgroundColor
+color bb_inActiveBottomBarItemColor
+color bb_tabletRightBorderDark
 color black
 color bottom_text
 color bright_foreground_disabled_material_dark
@@ -878,6 +896,9 @@ dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen activity_horizontal_margin
 dimen activity_vertical_margin
+dimen bb_default_elevation
+dimen bb_fake_shadow_height
+dimen bb_height
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
@@ -1619,6 +1640,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable bb_bottom_bar_top_shadow
 drawable brvah_sample_footer_loading
 drawable brvah_sample_footer_loading_progress
 drawable design_bottom_navigation_item_background
@@ -1628,12 +1650,17 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable hold
+drawable ic_favorites
+drawable ic_friends
 drawable ic_index_dashboard
 drawable ic_launcher
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_nearby
 drawable ic_progress_hojder
+drawable ic_recents
+drawable ic_restaurants
 drawable icon_logon
 drawable init_progressbar
 drawable layer_list_three
@@ -1698,9 +1725,18 @@ id always
 id async
 id auto
 id basic
+id bb_bottom_bar_appearance_id
+id bb_bottom_bar_background_overlay
+id bb_bottom_bar_color_id
+id bb_bottom_bar_icon
+id bb_bottom_bar_item_container
+id bb_bottom_bar_outer_container
+id bb_bottom_bar_shadow
+id bb_bottom_bar_title
 id beginning
 id blocking
 id bottom
+id bottomBar
 id btn_close
 id buttonPanel
 id cancel_action
@@ -1748,6 +1784,7 @@ id home
 id homeAsUp
 id icon
 id icon_group
+id iconsOnly
 id ifRoom
 id image
 id info
@@ -1819,10 +1856,12 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id selected
+id shifting
 id shortcut
 id showCustom
 id showHome
 id showTitle
+id shy
 id simpleRipple
 id smallLabel
 id snackbar_action
@@ -1844,6 +1883,9 @@ id stretch
 id submenuarrow
 id submit_area
 id tabMode
+id tab_favorites
+id tab_friends
+id tab_nearby
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
@@ -1874,6 +1916,7 @@ id tv_card_name
 id tv_card_num
 id tv_prompt
 id tv_user_name
+id underNavbar
 id uniform
 id unlabeled
 id up
@@ -1933,6 +1976,12 @@ layout abc_tooltip
 layout activity_card
 layout activity_login
 layout activity_main
+layout bb_bottom_bar_item_container
+layout bb_bottom_bar_item_container_tablet
+layout bb_bottom_bar_item_fixed
+layout bb_bottom_bar_item_fixed_tablet
+layout bb_bottom_bar_item_shifting
+layout bb_bottom_bar_item_titleless
 layout brvah_quick_view_load_more
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2041,6 +2090,12 @@ style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style AppBaseTheme
 style AppTheme
+style BB_BottomBarBadge_Text
+style BB_BottomBarItem
+style BB_BottomBarItem_Fixed_TitleAppearance
+style BB_BottomBarItem_Shifting_TitleAppearance
+style BB_BottomBarItem_Tablet
+style BB_BottomBarItem_TitleStyle
 style Base_AlertDialog_AppCompat
 style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog
@@ -2568,6 +2623,7 @@ styleable AppCompatTextHelper android_textAppearance android_drawableTop android
 styleable AppCompatTextView android_textAppearance autoSizeMaxTextSize autoSizeMinTextSize autoSizePresetSizes autoSizeStepGranularity autoSizeTextType firstBaselineToTopHeight fontFamily lastBaselineToBottomHeight lineHeight textAllCaps
 styleable AppCompatTheme android_windowIsFloating android_windowAnimationStyle actionBarDivider actionBarItemBackground actionBarPopupTheme actionBarSize actionBarSplitStyle actionBarStyle actionBarTabBarStyle actionBarTabStyle actionBarTabTextStyle actionBarTheme actionBarWidgetTheme actionButtonStyle actionDropDownStyle actionMenuTextAppearance actionMenuTextColor actionModeBackground actionModeCloseButtonStyle actionModeCloseDrawable actionModeCopyDrawable actionModeCutDrawable actionModeFindDrawable actionModePasteDrawable actionModePopupWindowStyle actionModeSelectAllDrawable actionModeShareDrawable actionModeSplitBackground actionModeStyle actionModeWebSearchDrawable actionOverflowButtonStyle actionOverflowMenuStyle activityChooserViewStyle alertDialogButtonGroupStyle alertDialogCenterButtons alertDialogStyle alertDialogTheme autoCompleteTextViewStyle borderlessButtonStyle buttonBarButtonStyle buttonBarNegativeButtonStyle buttonBarNeutralButtonStyle buttonBarPositiveButtonStyle buttonBarStyle buttonStyle buttonStyleSmall checkboxStyle checkedTextViewStyle colorAccent colorBackgroundFloating colorButtonNormal colorControlActivated colorControlHighlight colorControlNormal colorError colorPrimary colorPrimaryDark colorSwitchThumbNormal controlBackground dialogCornerRadius dialogPreferredPadding dialogTheme dividerHorizontal dividerVertical dropDownListViewStyle dropdownListPreferredItemHeight editTextBackground editTextColor editTextStyle homeAsUpIndicator imageButtonStyle listChoiceBackgroundIndicator listDividerAlertDialog listMenuViewStyle listPopupWindowStyle listPreferredItemHeight listPreferredItemHeightLarge listPreferredItemHeightSmall listPreferredItemPaddingLeft listPreferredItemPaddingRight panelBackground panelMenuListTheme panelMenuListWidth popupMenuStyle popupWindowStyle radioButtonStyle ratingBarStyle ratingBarStyleIndicator ratingBarStyleSmall searchViewStyle seekBarStyle selectableItemBackground selectableItemBackgroundBorderless spinnerDropDownItemStyle spinnerStyle switchStyle textAppearanceLargePopupMenu textAppearanceListItem textAppearanceListItemSecondary textAppearanceListItemSmall textAppearancePopupMenuHeader textAppearanceSearchResultSubtitle textAppearanceSearchResultTitle textAppearanceSmallPopupMenu textColorAlertDialogListItem textColorSearchUrl toolbarNavigationButtonStyle toolbarStyle tooltipForegroundColor tooltipFrameBackground viewInflaterClass windowActionBar windowActionBarOverlay windowActionModeOverlay windowFixedHeightMajor windowFixedHeightMinor windowFixedWidthMajor windowFixedWidthMinor windowMinWidthMajor windowMinWidthMinor windowNoTitle
 styleable BottomAppBar backgroundTint fabAlignmentMode fabCradleMargin fabCradleRoundedCornerRadius fabCradleVerticalOffset hideOnScroll
+styleable BottomBar bb_activeTabAlpha bb_activeTabColor bb_badgeBackgroundColor bb_badgesHideWhenActive bb_behavior bb_inActiveTabAlpha bb_inActiveTabColor bb_longPressHintsEnabled bb_showShadow bb_tabXmlResource bb_tabletMode bb_titleTextAppearance bb_titleTypeFace
 styleable BottomNavigationView elevation itemBackground itemHorizontalTranslationEnabled itemIconSize itemIconTint itemTextAppearanceActive itemTextAppearanceInactive itemTextColor labelVisibilityMode menu
 styleable BottomSheetBehavior_Layout behavior_fitToContents behavior_hideable behavior_peekHeight behavior_skipCollapsed
 styleable ButtonBarLayout allowStacking
@@ -2632,3 +2688,4 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
+xml bottombar_tabs_three

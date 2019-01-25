@@ -42,4 +42,6 @@ dependencies {
     annotationProcessor externalJakewhartonButterknifeCompiler
 
     api project(':sbecomlibrary')
+
+    implementation 'com.roughike:bottom-bar:2.3.1'
 }

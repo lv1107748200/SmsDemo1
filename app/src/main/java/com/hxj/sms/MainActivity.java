@@ -56,7 +56,7 @@ public class MainActivity extends BaseExitActivity {
 			TextView tv_card;
 
 	@OnClick(R.id.btn_close)
-			public void click(View view){
+	public void click(View view){
 		finish();
 	}
 
