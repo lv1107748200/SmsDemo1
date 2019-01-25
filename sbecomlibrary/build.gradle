@@ -1,0 +1,86 @@
+apply plugin: 'com.android.library'
+def dbflow_version = "4.2.4"
+
+android {
+    compileSdkVersion externalCompileSdkVersion
+
+    defaultConfig {
+        minSdkVersion externalMinSdkVersion
+        targetSdkVersion externalTargetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+        buildTypes {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            }
+        }
+    }
+
+    dependencies {
+        implementation fileTree(include: ['*.jar','*.aar'], dir: 'libs')
+        implementation externalAndroidAppCompatV7
+        implementation externalAndroidSupportV4
+        implementation externalAndroidRecyclerView
+        implementation externalAndroidConstraintLayout
+        implementation externalAndroidCardView
+        implementation externalAndroidDesign
+        testImplementation externalJunit
+        androidTestImplementation externalAndroidTestRunner
+        androidTestImplementation externalAndroidTestEspressoCore
+
+        annotationProcessor externalDaggerCompiler
+        annotationProcessor externalJakewhartonButterknifeCompiler
+        implementation externalDagger
+
+        compileOnly externalGlassfishJavaxAnnotation
+        api(externalJakewhartonButterknife) {
+            exclude module: 'support-annotations', group: 'com.android.support'
+            exclude module: 'support-compat', group: 'com.android.support'
+        } // 资源注入
+
+        api externaEventBus
+        //
+        api(externalRxjava2Rxandroid) {
+            exclude module: 'rxjava2', group: 'io.reactivex'
+        }
+        api externalRxjava2Rxjava
+
+        api externalOKHTTP
+        api(externalOKHTTPloggingInterceptor) {
+            exclude module: 'okhttp', group: 'com.squareup.okhttp3'
+        }
+        //restful网络框架
+        api(externalRetrofit2) {
+            exclude module: 'okhttp', group: 'com.squareup.okhttp3'
+        }
+        api(externalRetrofit2converterJackson) {
+            exclude module: 'retrofit', group: 'com.squareup.retrofit2'
+        }
+        api(externalRetrofit2AdapterRxjava) {
+            exclude module: 'retrofit', group: 'com.squareup.retrofit2'
+            exclude module: 'rxjava2', group: 'io.reactivex'
+        }
+        api(externalRxlifecycle2) {
+            exclude group: 'com.android.support', module: 'support-annotations'
+        }
+        api externalAndroidMultiDex
+        annotationProcessor 'com.github.bumptech.glide:compiler:4.5.0'
+        api(externalGlide) {
+            exclude group: 'com.android.support', module: 'support-annotations'
+        }
+
+        annotationProcessor "com.github.Raizlabs.DBFlow:dbflow-processor:${dbflow_version}"
+        api "com.github.Raizlabs.DBFlow:dbflow-core:${dbflow_version}"
+        api "com.github.Raizlabs.DBFlow:dbflow:${dbflow_version}"
+        implementation 'com.github.Blincheng:EToast2:v2.1.1'
+
+        api 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46'
+        implementation 'com.jakewharton:disklrucache:2.0.2'
+        api 'com.jaeger.statusbarutil:library:1.5.1'
+
+    }

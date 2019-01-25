@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.CymChad:BaseRecyclerViewAdapterHelper-2.9.46">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.46.aar/252a2a42f7db577b8cbdcaaef3e5460f/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/Android/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.46.aar/252a2a42f7db577b8cbdcaaef3e5460f/res" />
+      <root url="jar://D:/Android/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.46.aar/252a2a42f7db577b8cbdcaaef3e5460f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/2.9.46/7464ce73adc0929b56a12fbe3e849ce827315e17/BaseRecyclerViewAdapterHelper-2.9.46-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
