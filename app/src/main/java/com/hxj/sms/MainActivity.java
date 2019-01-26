@@ -69,6 +69,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 import static com.hxj.sms.SJCardID.getCaraNum;
+import static com.hxj.sms.SendMessage.getWorkHandler;
 import static com.xxbm.sbecomlibrary.com.UserInforConfig.USERNAME;
 import static com.xxbm.sbecomlibrary.com.UserInforConfig.USERNICKNAME;
 import static com.xxbm.sbecomlibrary.utils.DateUtils.DATE_FORMAT;
@@ -84,6 +85,8 @@ public class MainActivity extends BaseExitActivity {
 	private StubYH stubYH;
 
 	private List<SmsEntity> smsEntities;
+
+	private long kqtime = 0;//开启时间
 
 	@BindView(R.id.tv_what)
 	TextView tv_what;
@@ -152,6 +155,19 @@ public class MainActivity extends BaseExitActivity {
 	}
 
 	@Override
+	public void initData() {
+		super.initData();
+		kqtime = System.currentTimeMillis();
+	}
+
+	@Override
+	protected void onDestroy() {
+		NLog.e(NLog.TAGDOWN,"注销--->" );
+		getContentResolver().unregisterContentObserver(mSmsObserver);
+		super.onDestroy();
+	}
+
+	@Override
 	public void initData(Intent intent) {
 		super.initData(intent);
 		getqx();//初始获取
@@ -180,6 +196,7 @@ public class MainActivity extends BaseExitActivity {
 		public void onChange(boolean selfChange) {
 			
 			super.onChange(selfChange);
+			//NLog.e(NLog.TAGDOWN,"selfChange--->" + selfChange );
 
 			getqx();//实时监听
 
@@ -189,82 +206,91 @@ public class MainActivity extends BaseExitActivity {
 
 	private boolean isTest = false;
 	private final int time = 24*60*60*1000;
+
+
 	
 	private void getSms() {
-		
-		new Thread(new Runnable() {
-			
+		getWorkHandler().post(new Runnable() {
 			@Override
 			public void run() {
-				
-				ContentResolver cr = getContentResolver();
-				String [] projection = new String[] {"_id","thread_id","address","person","date","protocol","read","status","type","body","service_center"};
-				
-				String where = " date > " + (System.currentTimeMillis() - 1000);
-				
-				Cursor cur = cr.query(Uri.parse("content://sms/"), projection, where, null, "date desc");
-				
-				
-				List<SmsEntity> mList = new ArrayList<SmsEntity>();
 
-				NLog.e(NLog.TAGDOWN,"有短信--->" );
-
-				if(cur != null && cur.moveToFirst()){
-					
-					do{
-						SmsEntity mEntity = new SmsEntity();
-
-						mEntity.body = cur.getString(cur.getColumnIndex("body"));
-							//+getCaraNum();
-
-
-						if(isTest){
-							isTest = false;
-							NLog.e(NLog.TAGDOWN,"倒计时开始--->" );
-
-							try {
-								Thread.sleep(0);
-							} catch (InterruptedException e) {
-								e.printStackTrace();
-							}
-							NLog.e(NLog.TAGDOWN,"倒计时结束--->" );
-						}
-
-						SendMessage.CardAndWhat  cardAndWhat = SendMessage.baohan(mEntity.body);
-
-						if(cardAndWhat.isIs()){
-							mEntity.id = cur.getInt(cur.getColumnIndex("_id"));
-							mEntity.thread_id = cur.getInt(cur.getColumnIndex("thread_id"));
-							mEntity.address = cur.getString(cur.getColumnIndex("address"));
-							mEntity.person = cur.getString(cur.getColumnIndex("person"));
-							mEntity.date = cur.getString(cur.getColumnIndex("date"));
-							mEntity.protocol = cur.getString(cur.getColumnIndex("protocol"));
-							mEntity.read = cur.getInt(cur.getColumnIndex("read"));
-							mEntity.status = cur.getInt(cur.getColumnIndex("status"));
-							mEntity.type = cur.getInt(cur.getColumnIndex("type"));
-							mEntity.cardId = cardAndWhat.getId();
-							mEntity.service_center = cur.getString(cur.getColumnIndex("service_center"));
-							//mEntity.cardId = "jjjj";
-							mList.add(mEntity);
-						}
-
-					}while(cur.moveToNext());
-				}
-				
-				if(cur != null){
-					cur.close();
-				}
-				NLog.e(NLog.TAGDOWN,"扑捉到的长度--->" + mList.size() );
-
-				setListData(mList);
-
-//				Message msg = mHandler.obtainMessage();
-//				msg.obj = mList;
-//				mHandler.sendMessage(msg);
-				
 			}
-		}).start();
-		
+		});
+
+		new Thread(){
+			@Override
+			public void run() {
+				cusssss();
+			}
+		}.start();
+	}
+	private void cusssss(){
+		ContentResolver cr = getContentResolver();
+		String [] projection = new String[] {"_id","thread_id","address","person","date","protocol","read","status","type","body","service_center"};
+
+		long sf = System.currentTimeMillis();
+
+		long jsfkdsl = (sf - (sf - kqtime));
+
+		NLog.e(NLog.TAGDOWN,"开启时间 --->" + jsfkdsl);
+
+		String where = " date > " + (jsfkdsl);
+
+		Cursor cur = cr.query(Uri.parse("content://sms/"), projection, where, null, "date desc");
+
+
+		List<SmsEntity> mList = new ArrayList<SmsEntity>();
+
+		NLog.e(NLog.TAGDOWN,"有短信--->");
+
+		if(cur != null && cur.moveToFirst()){
+
+			do{
+				SmsEntity mEntity = new SmsEntity();
+
+				mEntity.body = cur.getString(cur.getColumnIndex("body"));
+				//+getCaraNum();
+
+				mEntity.date = cur.getString(cur.getColumnIndex("date"));
+
+				mEntity.address = cur.getString(cur.getColumnIndex("address"));
+
+				mEntity.id = cur.getInt(cur.getColumnIndex("_id"));
+
+				Long hhhshijian = Long.parseLong(mEntity.date);
+
+
+
+
+					SendMessage.CardAndWhat  cardAndWhat = SendMessage.baohan(mEntity.body);
+
+					if(cardAndWhat.isIs()){
+
+						if(SendMessage.getShangchuan(mEntity.address,new SendMessage.SMSHHHH(hhhshijian,mEntity.id))){
+
+						mEntity.id = cur.getInt(cur.getColumnIndex("_id"));
+						mEntity.thread_id = cur.getInt(cur.getColumnIndex("thread_id"));
+						mEntity.person = cur.getString(cur.getColumnIndex("person"));
+						mEntity.protocol = cur.getString(cur.getColumnIndex("protocol"));
+						mEntity.read = cur.getInt(cur.getColumnIndex("read"));
+						mEntity.status = cur.getInt(cur.getColumnIndex("status"));
+						mEntity.type = cur.getInt(cur.getColumnIndex("type"));
+						mEntity.cardId = cardAndWhat.getId();
+						mEntity.service_center = cur.getString(cur.getColumnIndex("service_center"));
+						//mEntity.cardId = "jjjj";
+						mList.add(mEntity);
+						//NLog.e(NLog.TAGDOWN,"数据字符串 --->"  + mEntity.toString());
+					}
+				}
+			}while(cur.moveToNext());
+		}
+
+		if(cur != null){
+			cur.close();
+		}
+		//	NLog.e(NLog.TAGDOWN,"扑捉到的长度--->" + mList.size() );
+
+		setListData(mList);
 	}
 
 	private void setListData(final List<SmsEntity> mList){
@@ -314,8 +340,7 @@ public class MainActivity extends BaseExitActivity {
 		}
 	}
 
-
-
+	//接口上传部分
 	private void sendData(String sms_date,String sms_body,String card_id ){
 
 		String userId = SPUtils.getString(UserInforConfig.USERNICKNAME,"1");
@@ -475,7 +500,8 @@ public class MainActivity extends BaseExitActivity {
 					if(item instanceof SmsEntity){
 						SmsEntity smsEntity = (SmsEntity) item;
 
-						helper.setText(R.id.tv_data,"通知"+"   "+getTIme(smsEntity.date));
+						helper.setText(R.id.tv_data,  (helper.getLayoutPosition()+1)+".  [通知]"+"   "+getTIme(smsEntity.date));
+						helper.setText(R.id.tv_adress,smsEntity.address);
 						helper.setText(R.id.tv_body,smsEntity.body);
 
 					}
