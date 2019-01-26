@@ -44,13 +44,9 @@ public class LoginActivity  extends BaseActivity {
     @Override
     public void initData() {
         super.initData();
-
-        Intent intent = new Intent(LoginActivity.this,CardActivity.class);
-        startActivity(intent);
-        finish();
     }
 
-    private void login(String username, String password){
+    private void login(final String username,final String password){
 
         baseService.login(username, password, new HttpCallback<Object, BaseDataResponse<Object>>() {
             @Override
@@ -72,10 +68,11 @@ public class LoginActivity  extends BaseActivity {
                 if(!CheckUtil.isEmpty(userid)){
                     NToast.shortToastBaseApp("登陆成功");
 
-                    SPUtils.putString(UserInforConfig.USERNAME,userid,false);
+                    SPUtils.putString(UserInforConfig.USERNICKNAME,userid,false);
+                    SPUtils.putString(UserInforConfig.USERNAME,username,false);
+                    SPUtils.putString(UserInforConfig.USERLOGO,password,false);
 
-                    Intent intent = new Intent(LoginActivity.this,CardActivity.class);
-                    intent.putExtra(CardActivity.CARDTYPE,userid);
+                    Intent intent = new Intent(LoginActivity.this,MainActivity.class);
                     startActivity(intent);
                     finish();
                 }else {

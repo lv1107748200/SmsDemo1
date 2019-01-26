@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tabs>
-    <tab
-        id="@+id/tab_favorites"
-        icon="@drawable/ic_favorites"
-        title="Favorites" />
+
     <tab
         id="@+id/tab_nearby"
-        icon="@drawable/ic_nearby"
-        title="Nearby"
-        inActiveColor="#00FF00"
-        activeColor="#FF0000"
-        barColorWhenSelected="#FF0000"
-        badgeBackgroundColor="#FF0000"
-        />
+        icon="@drawable/icon_yhk"
+        title="卡号"
+        activeColor="@color/color_F86" />
     <tab
         id="@+id/tab_friends"
-        icon="@drawable/ic_friends"
-        title="Friends" />
+        icon="@drawable/icon_rz"
+        title="日志"
+        activeColor="@color/color_F86" />
+    <tab
+        id="@+id/tab_favorites"
+        icon="@drawable/icon_user"
+        title="账号"
+        activeColor="@color/color_F86" />
+
 </tabs>

@@ -20,6 +20,15 @@ public class CardListData implements Parcelable {
     private String CardName;
     private String BankName;
     private String CardNo;
+    private boolean isSend;
+
+    public boolean isSend() {
+        return isSend;
+    }
+
+    public void setSend(boolean send) {
+        isSend = send;
+    }
 
     public String getCardId() {
         return CardId;

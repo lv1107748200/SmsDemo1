@@ -4,16 +4,16 @@
         "source": "D:\\use\\SmsDemo1\\sbecomlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_index_dashboard.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bb_bottom_bar_item_fixed.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\752bb7424879843e719fa064560d182e\\res\\layout\\bb_bottom_bar_item_fixed.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -26,6 +26,10 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_logon.png.flat",
         "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xhdpi\\icon_logon.png"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_layout.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\title_layout.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -60,12 +64,12 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -96,10 +100,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorites.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_favorites.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -120,12 +120,12 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -140,28 +140,24 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\87acd4fb3cbbb8c4656f89c6331c9704\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nearby.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nearby.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -196,10 +192,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_restaurants.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_restaurants.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -220,12 +212,16 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
     },
     {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_rz.png.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_rz.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
@@ -252,6 +248,10 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\anim\\design_snackbar_out.xml"
     },
     {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rzxx.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\item_rzxx.xml"
+    },
+    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
@@ -260,20 +260,20 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\87acd4fb3cbbb8c4656f89c6331c9704\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -288,24 +288,16 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_restaurants.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_restaurants.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
@@ -332,10 +324,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
@@ -358,6 +346,10 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_yhk.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\item_yhk.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -388,10 +380,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorites.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_favorites.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
@@ -402,6 +390,10 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\87acd4fb3cbbb8c4656f89c6331c9704\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_yh.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\item_yh.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
@@ -490,10 +482,6 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nearby.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_nearby.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_abc_btn_colored_borderless_text_material.xml.flat",
@@ -596,10 +584,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_recents.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_recents.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -656,14 +640,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_restaurants.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_restaurants.png"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nearby.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_nearby.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-v21\\abc_list_divider_material.xml"
     },
@@ -682,10 +658,6 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layer_list_three.xml.flat",
         "source": "D:\\use\\SmsDemo1\\sbecomlibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\layer_list_three.xml"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nearby.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_nearby.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bb_bottom_bar_item_titleless.xml.flat",
@@ -1080,20 +1052,16 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line_color_one.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable\\line_color_one.xml"
+    },
+    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorites.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorites.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
@@ -1208,12 +1176,12 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_friends.png.flat",
@@ -1226,10 +1194,6 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_recents.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_recents.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1264,10 +1228,6 @@
         "source": "D:\\use\\SmsDemo1\\sbecomlibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\init_progressbar.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_recents.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_recents.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\1153dc65ac1185d4effcf646df6f3ecb\\res\\layout\\notification_media_action.xml"
     },
@@ -1298,10 +1258,6 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_recents.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_recents.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1422,6 +1378,10 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_emty_view.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\emty_view.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_index_dashboard.png.flat",
@@ -1644,10 +1604,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorites.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_favorites.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color\\abc_primary_text_material_light.xml"
     },
@@ -1662,6 +1618,10 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rz.xml.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\layout\\item_rz.xml"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1736,16 +1696,8 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_recents.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_recents.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_restaurants.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_restaurants.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1764,12 +1716,12 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1920,10 +1872,6 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\472e2668152239f4d25b6182e7e794d3\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_restaurants.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_restaurants.png"
-    },
-    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\anim\\abc_popup_enter.xml"
     },
@@ -1956,6 +1904,10 @@
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_user.png.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_user.png"
+    },
+    {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
@@ -1966,6 +1918,10 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_yhk.png.flat",
+        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_yhk.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1986,10 +1942,6 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nearby.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_nearby.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right_in.xml.flat",
@@ -2094,10 +2046,6 @@
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorites.png.flat",
-        "source": "D:\\use\\SmsDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_favorites.png"
     },
     {
         "merged": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",

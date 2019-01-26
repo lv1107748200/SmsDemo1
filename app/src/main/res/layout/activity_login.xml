@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     >
+    <include layout="@layout/title_layout"/>
 
 <!--13803817040-->
     <!--147258-->

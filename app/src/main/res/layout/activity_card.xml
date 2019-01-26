@@ -4,17 +4,38 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
-    <android.support.v7.widget.RecyclerView
+
+    <include layout="@layout/title_layout"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_weight="1"
-        android:id="@+id/recyle"
-        style="@style/m_er_recycle_style_w"
         >
-    </android.support.v7.widget.RecyclerView>
+        <ViewStub android:id="@+id/stub_yhk"
+            android:layout="@layout/item_yhk"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            />
+        <ViewStub android:id="@+id/stub_rzxx"
+            android:layout="@layout/item_rzxx"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            />
+        <ViewStub android:id="@+id/stub_yh"
+            android:layout="@layout/item_yh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            />
+
+    </FrameLayout>
 
     <com.roughike.bottombar.BottomBar
         android:id="@+id/bottomBar"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="50dp"
         android:layout_alignParentBottom="true"
         app:bb_tabXmlResource="@xml/bottombar_tabs_three" />
 

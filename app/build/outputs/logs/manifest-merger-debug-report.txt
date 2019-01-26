@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:multidex:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10cc127f4d5ae1dad3178f708a97d1f7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.roughike:bottom-bar:2.3.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\752bb7424879843e719fa064560d182e\AndroidManifest.xml:2:1-12:12
@@ -49,9 +49,9 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Android\cacheGradle\
 MERGED from [android.arch.core:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6354b932f076cb46db8de12ab39302a3\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0b7269a84991ae8a1a7bf37db0507ba\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\f27318f3ba58462e0f9285ccf142a10d\AndroidManifest.xml:2:1-11:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:3:5-26
 		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
@@ -82,8 +82,12 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.REORDER_TASKS
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:22-69
 application
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:12:5-40:19
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:14:5-44:19
 MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-28:19
 MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-28:19
 MERGED from [com.jaeger.statusbarutil:library:1.5.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\77a677f611a4d94cf1e26a9aa0c8760a\AndroidManifest.xml:11:5-20
@@ -109,53 +113,55 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\
 	android:supportsRtl
 		ADDED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:20:9-41
 	android:hardwareAccelerated
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:17:9-43
 	android:largeHeap
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:14:9-33
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:16:9-33
 	android:icon
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:17:9-44
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:19:9-44
 	android:allowBackup
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:21:9-39
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:16:9-43
-activity#com.hxj.sms.LoginActivity
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:20:9-30:20
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:18:9-43
+activity#com.hxj.sms.SplashActivity
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:22:9-33:20
 	android:screenOrientation
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:25:13-49
 	android:label
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:26:13-47
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:21:13-53
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:23:13-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.hxj.sms.LoginActivity
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:35:9-38:15
+	android:screenOrientation
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:35:19-48
 activity#com.hxj.sms.MainActivity
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:32:9-35:15
+ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:40:9-43:15
 	android:screenOrientation
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:34:13-49
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:42:13-49
 	android:launchMode
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:33:13-44
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:41:13-44
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:32:19-47
-activity#com.hxj.sms.CardActivity
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:36:9-39:15
-	android:screenOrientation
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:38:13-49
-	android:launchMode
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:37:13-44
-	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:36:19-47
+		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:40:19-47
 uses-sdk
 INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml

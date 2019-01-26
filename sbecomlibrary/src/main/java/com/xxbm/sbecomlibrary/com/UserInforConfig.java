@@ -5,9 +5,9 @@ package com.xxbm.sbecomlibrary.com;
  */
 
 public enum UserInforConfig {
-    USERNAME("userName"),//姓名
-    USERLOGO("logo"),//头像
-    USERNICKNAME("NickName"),//昵称
+    USERNAME("userPhone"),//姓名
+    USERLOGO("password"),//头像
+    USERNICKNAME("userid"),//昵称
     USERSESSIONKEY("sessionkey"),//sessionkey
     USERBINDWX("bindWx"),//绑定微信
 

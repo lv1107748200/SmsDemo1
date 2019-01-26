@@ -4,7 +4,8 @@ import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.Context;
 
-
+import com.raizlabs.android.dbflow.config.FlowConfig;
+import com.raizlabs.android.dbflow.config.FlowManager;
 
 
 /**
@@ -26,7 +27,7 @@ public class BaseApplation extends com.xxbm.sbecomlibrary.base.BaseApplation {
     public void onCreate() {
         super.onCreate();
         if (getApplicationInfo().packageName.equals(getCurProcessName(getApplicationContext()))) {
-
+//            FlowManager.init(new FlowConfig.Builder(this).build());
         }
     }
     public static String getCurProcessName(Context context) {

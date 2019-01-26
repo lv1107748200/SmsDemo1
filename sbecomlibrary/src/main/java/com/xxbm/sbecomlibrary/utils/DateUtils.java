@@ -105,6 +105,15 @@ public class DateUtils {
         res = dateToString(date, f);
         return res;
     }
+    public static String getTIme(String timeStamp){
+        if(CheckUtil.isEmpty(timeStamp))
+            return timeStamp;
+        SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");//这个是你要转成后的时间的格式
+        long l = Long.parseLong(timeStamp);
+        String sd = sdf.format(new Date(l));
+
+        return sd;
+    }
 
     public static String stampToDate(long s, String f) {
         String res;

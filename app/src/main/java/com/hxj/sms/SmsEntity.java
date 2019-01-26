@@ -16,6 +16,7 @@ public class SmsEntity {
 	public int type;
 	public String body;
 	public String service_center;
+	public String cardId;
 	
 	@Override
 	public String toString() {
