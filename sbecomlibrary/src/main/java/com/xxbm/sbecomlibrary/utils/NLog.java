@@ -11,7 +11,7 @@ import android.util.Log;
 public class NLog {
 
     private static final String LOG_FORMAT = "%1$s\n%2$s";
-    private static boolean isDebug = true;
+    private static boolean isDebug = false;
     public static final String TAG = "HttpLVC";
     public static final String TAGOther = "other";
     public static final String TAGDOWN = "downTag";

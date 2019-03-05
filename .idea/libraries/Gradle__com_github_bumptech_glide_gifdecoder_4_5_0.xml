@@ -1,15 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.bumptech.glide:gifdecoder-4.5.0">
     <ANNOTATIONS>
-      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/f27318f3ba58462e0f9285ccf142a10d/annotations.zip!/" />
+      <root url="jar://H:/Android/cacheGradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/3037945b71d44f6a240a1623025112d0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://E:/Android/cacheGradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/f27318f3ba58462e0f9285ccf142a10d/res" />
-      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/f27318f3ba58462e0f9285ccf142a10d/jars/classes.jar!/" />
+      <root url="file://H:/Android/cacheGradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/3037945b71d44f6a240a1623025112d0/res" />
+      <root url="jar://H:/Android/cacheGradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/3037945b71d44f6a240a1623025112d0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://E:/Android/cacheGradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.5.0/1a16f8059bc5addd1da14b99461e5d5a9d38063b/gifdecoder-4.5.0-sources.jar!/" />
+      <root url="jar://H:/Android/cacheGradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.5.0/1a16f8059bc5addd1da14b99461e5d5a9d38063b/gifdecoder-4.5.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

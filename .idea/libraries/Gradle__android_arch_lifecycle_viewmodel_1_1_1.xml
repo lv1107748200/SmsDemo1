@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.lifecycle:viewmodel-1.1.1">
     <CLASSES>
-      <root url="file://E:/Android/cacheGradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e0b7269a84991ae8a1a7bf37db0507ba/res" />
-      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e0b7269a84991ae8a1a7bf37db0507ba/jars/classes.jar!/" />
+      <root url="file://H:/Android/cacheGradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3fc59e056e255b16113544480befe641/res" />
+      <root url="jar://H:/Android/cacheGradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3fc59e056e255b16113544480befe641/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://E:/Android/cacheGradle/caches/modules-2/files-2.1/android.arch.lifecycle/viewmodel/1.1.1/d1cc8e805317f171be63c68341f499acda7e42d6/viewmodel-1.1.1-sources.jar!/" />
+      <root url="jar://H:/Android/cacheGradle/caches/modules-2/files-2.1/android.arch.lifecycle/viewmodel/1.1.1/d1cc8e805317f171be63c68341f499acda7e42d6/viewmodel-1.1.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

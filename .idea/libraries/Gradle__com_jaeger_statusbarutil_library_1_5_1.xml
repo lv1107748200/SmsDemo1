@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.jaeger.statusbarutil:library-1.5.1">
     <CLASSES>
-      <root url="jar://E:/Android/cacheGradle/caches/transforms-1/files-1.1/library-1.5.1.aar/77a677f611a4d94cf1e26a9aa0c8760a/jars/classes.jar!/" />
-      <root url="file://E:/Android/cacheGradle/caches/transforms-1/files-1.1/library-1.5.1.aar/77a677f611a4d94cf1e26a9aa0c8760a/res" />
+      <root url="jar://H:/Android/cacheGradle/caches/transforms-1/files-1.1/library-1.5.1.aar/093268b2dd297dc9c616fc788d06163f/jars/classes.jar!/" />
+      <root url="file://H:/Android/cacheGradle/caches/transforms-1/files-1.1/library-1.5.1.aar/093268b2dd297dc9c616fc788d06163f/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://E:/Android/cacheGradle/caches/modules-2/files-2.1/com.jaeger.statusbarutil/library/1.5.1/c3e0d2ff5d9698337ae590420367625104362091/library-1.5.1-sources.jar!/" />
+      <root url="jar://H:/Android/cacheGradle/caches/modules-2/files-2.1/com.jaeger.statusbarutil/library/1.5.1/c3e0d2ff5d9698337ae590420367625104362091/library-1.5.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

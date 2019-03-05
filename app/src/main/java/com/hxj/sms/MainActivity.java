@@ -59,6 +59,7 @@ import io.reactivex.Observer;
 import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
+import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 import okhttp3.Call;
 import okhttp3.Callback;
@@ -110,20 +111,6 @@ public class MainActivity extends BaseExitActivity {
 		}
 	}
 
-	Handler mHandler = new Handler(){
-
-		public void handleMessage(android.os.Message msg) {
-//				List<SmsEntity> smsEntitiessss = (List<SmsEntity>) msg.obj;
-//
-//				if(!CheckUtil.isEmpty(smsEntitiessss)){
-//					smsEntities.addAll(smsEntitiessss);
-//				}
-//
-//				if(null != stubRZXX){
-//					stubRZXX.upData(smsEntities);
-//				}
-		};
-	};
 
 	@Override
 	public int getLayout() {
@@ -134,7 +121,7 @@ public class MainActivity extends BaseExitActivity {
 	public void initView() {
 		super.initView();
 		smsEntities = new ArrayList<>();
-		mSmsObserver = new SmsObserver(mHandler);
+		mSmsObserver = new SmsObserver(new Handler());
 		getContentResolver().registerContentObserver(Uri.parse("content://sms/"), true, mSmsObserver);
 
 		bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
@@ -163,6 +150,11 @@ public class MainActivity extends BaseExitActivity {
 	@Override
 	protected void onDestroy() {
 		NLog.e(NLog.TAGDOWN,"注销--->" );
+		if(null != disposable){
+			if(!disposable.isDisposed()){
+				disposable.dispose();
+			}
+		}
 		getContentResolver().unregisterContentObserver(mSmsObserver);
 		super.onDestroy();
 	}
@@ -172,7 +164,24 @@ public class MainActivity extends BaseExitActivity {
 		super.initData(intent);
 		getqx();//初始获取
 	}
-
+    private Disposable disposable ;
+	private void setDJS(){
+		if(null != disposable){
+			if(!disposable.isDisposed()){
+				disposable.dispose();
+			}
+		}
+		disposable = Observable.timer(1500, TimeUnit.MILLISECONDS)
+				.subscribeOn(Schedulers.io())
+				.unsubscribeOn(Schedulers.io())
+				.observeOn(AndroidSchedulers.mainThread())
+				.subscribe(new Consumer<Long>() {
+					@Override
+					public void accept(Long aLong) throws Exception {
+						getqx();//实时监听
+					}
+				});
+	}
 	private void getqx(){
 		requestPermission(Manifest.permission.RECEIVE_SMS, new PermissionCallback() {
 			@Override
@@ -197,9 +206,7 @@ public class MainActivity extends BaseExitActivity {
 			
 			super.onChange(selfChange);
 			//NLog.e(NLog.TAGDOWN,"selfChange--->" + selfChange );
-
-			getqx();//实时监听
-
+			setDJS();
 		}
 
 	}
