@@ -1,268 +1,268 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
-MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:multidex:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10cc127f4d5ae1dad3178f708a97d1f7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.roughike:bottom-bar:2.3.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\752bb7424879843e719fa064560d182e\AndroidManifest.xml:2:1-12:12
-MERGED from [com.jaeger.statusbarutil:library:1.5.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\77a677f611a4d94cf1e26a9aa0c8760a\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:design:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\472e2668152239f4d25b6182e7e794d3\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6a420031eee3e503bfe39f1e79bb0c55\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\712c72cd09a1f729ce1fb4399acafcc8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\294e4614ea56553181bdecde7d5588b0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb54b9c4744a2dcb3cba386dc164550f\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e3590cefac96cdfdc4b768d54408a8ae\AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife:8.7.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\d655ef63d98d0596acaad40347a3e2d4\AndroidManifest.xml:2:1-7:12
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.2.aar\40822839fc83b03edc1e49feafe75790\AndroidManifest.xml:13:1-18:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\e873b642320f8432d3a05af97c8b756f\AndroidManifest.xml:15:1-21:12
-MERGED from [com.github.bumptech.glide:glide:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5ea4e781b23c4823616b6ef03d761f1f\AndroidManifest.xml:2:1-13:12
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] E:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\8a73df7068484eac6afb25bc567bc8b6\AndroidManifest.xml:2:1-13:12
-MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] E:\Android\cacheGradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\39bf82db8bb89f7f14dd399beb4b0188\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9fe95312a3764101362093b66d9d8294\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7bc66e247933048c0d3bcdb4aefe8ccc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ab200f6b316b2d472e7f37436b4b3b24\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3bb1023490c123808bc35aacf9dc4e90\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1153dc65ac1185d4effcf646df6f3ecb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d77ba2c85ad0e438833c8467fba95baa\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b45023948fa717f286d8adbd88600374\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7cb5713b380dc5fef419f6c6bb0c4fb9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\662057906944f01c719378a591962ab9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\244af057698ca1d59e0cd90c5dd1f22b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5143fbf32e822e2c55b5dd7adc604012\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bb7354f78ed35e16b1baabe8ba9a63b3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4bd3871f39fd63b707d9df19b5b8130f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\016f129a5104ba25c69f68e82db7e405\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\099d699db94f0fd8f3a43fd6f6288c26\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87acd4fb3cbbb8c4656f89c6331c9704\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bb0b3659b3fee0d9d1495d8d7fe3bc96\AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed6ec224657ab6045726e93f1c7fde0e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e01c986ed106871fb5865ebbaea4072d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6e7c8a0e7e66b7213241fb9852564fc4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e14b246ae25ab76dd0625b3f9017a230\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1cda1f04a66d431c037f7c2d5e804f2d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7190ebac77847f1d7b6d0e003c2dc58a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2863838aa543f5457b9c48f64e1b6445\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1fb0a36d15edde2d09cba461a6f20237\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6354b932f076cb46db8de12ab39302a3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0b7269a84991ae8a1a7bf37db0507ba\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\f27318f3ba58462e0f9285ccf142a10d\AndroidManifest.xml:2:1-11:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [:sbecomlibrary] E:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:multidex:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2d997ff1e063b8b1c33cc60282f1cd20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.roughike:bottom-bar:2.3.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\41e0a346957206b1a61e4a9b5439bc6c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.jaeger.statusbarutil:library:1.5.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\093268b2dd297dc9c616fc788d06163f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\fdd92be2c571b3814148bd3d59d1363b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0f3732af3d679d67687bdda06ae6dfdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\71c49ca7705c183e0bf92ad725005d61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d3010a4cd0d12164f3f0168227b6049a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\49a3a816b79fb9225416a96e382261b0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\03b1cf4a5e0b77ecf4d22a7bd502dd81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.7.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\22ef8b469269d7543b23ec728063d1a0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.2.aar\d1aebaccccac1fbebfa3b802e3337fed\AndroidManifest.xml:13:1-18:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\d39e24f3f097cd680945f3c8b177b230\AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.bumptech.glide:glide:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\9333c1a9f4a38ab4e83fe363238b56dd\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] H:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\b8ea873cf881a1e983d9df704c63cbb3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] H:\Android\cacheGradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\b1f89b5f70807bfb017459857ee4d451\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.Blincheng:EToast2:v2.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\e8311deacd197c7c90e99cba7808025b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7b9a3e20008ffd2a3a14f78cbc9d42d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3b70d9509e467e9bf689c9a995fa3cb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\23ecc766b5c9f3bd3901419fcffaa08e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6852e07caef7e9b1c01ef53bf5ab30d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\433fa96c7c9cf80480d0979d33ee12a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4d75a1a1dca9931d13cada02202c42c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4345a0081dfaae01f7f4278ca9ace3f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\783e03601bc0eabd97d64f76816f9181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6b22fb743454966b85910f33b721d844\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\52006120094158995c85d33c26036f7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ba61b0c51deb41513aa6e90e2cb44e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ebbd2766fefdce93c540bdc52563305\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f184470592ce76ad86660814421062a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e2ebad03408d091a93b84ad502502632\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\432661778378c97addb3d0fb597e9c1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5944b325b50d31e9c648546a7c4088cc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\45503e3df9f28bb91a25a82749249700\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f78ef8bd14ed083c6221bb5186ed4df4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9d3d896ca3025866baac736080d70efb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3dab21c7cd8dbef7e88b57047d756fa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f2bb1e3ad5f8cc6aef127d9942fb4ab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e3d9af3cf0db654146ac9cef38bba47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a609abbbe920486165e77167b1267da0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\75a2b85eab9d3f05fa307491063be41b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9bd1f322d74e57e2aa9e7088dce6539e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3349cb4b921114d0b6851c5a2f9c36f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3fc59e056e255b16113544480befe641\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\3037945b71d44f6a240a1623025112d0\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:3:5-26
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_SMS
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:8:5-69
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:8:5-69
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:8:22-67
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:8:22-67
 uses-permission#android.permission.INTERNET
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:9:5-66
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:9:5-66
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.REORDER_TASKS
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:5-72
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:5-72
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:22-69
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:13:22-69
 application
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:14:5-44:19
-MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-28:19
-MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-28:19
-MERGED from [com.jaeger.statusbarutil:library:1.5.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\77a677f611a4d94cf1e26a9aa0c8760a\AndroidManifest.xml:11:5-20
-MERGED from [com.jaeger.statusbarutil:library:1.5.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\77a677f611a4d94cf1e26a9aa0c8760a\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\472e2668152239f4d25b6182e7e794d3\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\472e2668152239f4d25b6182e7e794d3\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb54b9c4744a2dcb3cba386dc164550f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb54b9c4744a2dcb3cba386dc164550f\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5ea4e781b23c4823616b6ef03d761f1f\AndroidManifest.xml:11:5-20
-MERGED from [com.github.bumptech.glide:glide:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5ea4e781b23c4823616b6ef03d761f1f\AndroidManifest.xml:11:5-20
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] E:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\8a73df7068484eac6afb25bc567bc8b6\AndroidManifest.xml:11:5-20
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] E:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\8a73df7068484eac6afb25bc567bc8b6\AndroidManifest.xml:11:5-20
-MERGED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:support-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87acd4fb3cbbb8c4656f89c6331c9704\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87acd4fb3cbbb8c4656f89c6331c9704\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bb0b3659b3fee0d9d1495d8d7fe3bc96\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bb0b3659b3fee0d9d1495d8d7fe3bc96\AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\f27318f3ba58462e0f9285ccf142a10d\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\f27318f3ba58462e0f9285ccf142a10d\AndroidManifest.xml:9:5-20
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:14:5-44:19
+MERGED from [:sbecomlibrary] E:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-28:19
+MERGED from [:sbecomlibrary] E:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-28:19
+MERGED from [com.jaeger.statusbarutil:library:1.5.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\093268b2dd297dc9c616fc788d06163f\AndroidManifest.xml:11:5-20
+MERGED from [com.jaeger.statusbarutil:library:1.5.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\093268b2dd297dc9c616fc788d06163f\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\fdd92be2c571b3814148bd3d59d1363b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\fdd92be2c571b3814148bd3d59d1363b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\49a3a816b79fb9225416a96e382261b0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\49a3a816b79fb9225416a96e382261b0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\9333c1a9f4a38ab4e83fe363238b56dd\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\9333c1a9f4a38ab4e83fe363238b56dd\AndroidManifest.xml:11:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] H:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\b8ea873cf881a1e983d9df704c63cbb3\AndroidManifest.xml:11:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] H:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\b8ea873cf881a1e983d9df704c63cbb3\AndroidManifest.xml:11:5-20
+MERGED from [com.github.Blincheng:EToast2:v2.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\e8311deacd197c7c90e99cba7808025b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Blincheng:EToast2:v2.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\e8311deacd197c7c90e99cba7808025b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5944b325b50d31e9c648546a7c4088cc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5944b325b50d31e9c648546a7c4088cc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\45503e3df9f28bb91a25a82749249700\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\45503e3df9f28bb91a25a82749249700\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\3037945b71d44f6a240a1623025112d0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\3037945b71d44f6a240a1623025112d0\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87acd4fb3cbbb8c4656f89c6331c9704\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5944b325b50d31e9c648546a7c4088cc\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:14:9-35
+		ADDED from [com.github.Blincheng:EToast2:v2.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\e8311deacd197c7c90e99cba7808025b\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:20:9-41
 	android:hardwareAccelerated
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:17:9-43
 	android:largeHeap
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:16:9-33
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:16:9-33
 	android:icon
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:19:9-44
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:19:9-44
 	android:allowBackup
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:21:9-39
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:21:9-39
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:18:9-43
 activity#com.hxj.sms.SplashActivity
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:22:9-33:20
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:22:9-33:20
 	android:screenOrientation
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:25:13-49
 	android:label
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:24:13-45
 	android:theme
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:26:13-47
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:26:13-47
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:23:13-54
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:23:13-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:31:27-74
 activity#com.hxj.sms.LoginActivity
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:35:9-38:15
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:35:9-38:15
 	android:screenOrientation
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:37:13-49
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:37:13-49
 	android:launchMode
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:36:13-44
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:35:19-48
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:35:19-48
 activity#com.hxj.sms.MainActivity
-ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:40:9-43:15
+ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:40:9-43:15
 	android:screenOrientation
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:42:13-49
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:42:13-49
 	android:launchMode
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:41:13-44
 	android:name
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml:40:19-47
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml:40:19-47
 uses-sdk
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:5-25:41
-MERGED from [:sbecomlibrary] D:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:5-25:41
-MERGED from [com.android.support:multidex:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10cc127f4d5ae1dad3178f708a97d1f7\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10cc127f4d5ae1dad3178f708a97d1f7\AndroidManifest.xml:20:5-43
-MERGED from [com.roughike:bottom-bar:2.3.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\752bb7424879843e719fa064560d182e\AndroidManifest.xml:8:5-10:41
-MERGED from [com.roughike:bottom-bar:2.3.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\752bb7424879843e719fa064560d182e\AndroidManifest.xml:8:5-10:41
-MERGED from [com.jaeger.statusbarutil:library:1.5.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\77a677f611a4d94cf1e26a9aa0c8760a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jaeger.statusbarutil:library:1.5.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\77a677f611a4d94cf1e26a9aa0c8760a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\472e2668152239f4d25b6182e7e794d3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\472e2668152239f4d25b6182e7e794d3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6a420031eee3e503bfe39f1e79bb0c55\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6a420031eee3e503bfe39f1e79bb0c55\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\712c72cd09a1f729ce1fb4399acafcc8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\712c72cd09a1f729ce1fb4399acafcc8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\294e4614ea56553181bdecde7d5588b0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\294e4614ea56553181bdecde7d5588b0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb54b9c4744a2dcb3cba386dc164550f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cb54b9c4744a2dcb3cba386dc164550f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e3590cefac96cdfdc4b768d54408a8ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e3590cefac96cdfdc4b768d54408a8ae\AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.7.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\d655ef63d98d0596acaad40347a3e2d4\AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.7.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\d655ef63d98d0596acaad40347a3e2d4\AndroidManifest.xml:5:5-43
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.2.aar\40822839fc83b03edc1e49feafe75790\AndroidManifest.xml:16:5-44
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.2.aar\40822839fc83b03edc1e49feafe75790\AndroidManifest.xml:16:5-44
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\e873b642320f8432d3a05af97c8b756f\AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] E:\Android\cacheGradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\e873b642320f8432d3a05af97c8b756f\AndroidManifest.xml:19:5-43
-MERGED from [com.github.bumptech.glide:glide:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5ea4e781b23c4823616b6ef03d761f1f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.bumptech.glide:glide:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5ea4e781b23c4823616b6ef03d761f1f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] E:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\8a73df7068484eac6afb25bc567bc8b6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] E:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\8a73df7068484eac6afb25bc567bc8b6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] E:\Android\cacheGradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\39bf82db8bb89f7f14dd399beb4b0188\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] E:\Android\cacheGradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\39bf82db8bb89f7f14dd399beb4b0188\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Blincheng:EToast2:v2.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\d2ba9ac860e69c85c4d3f857c8141e9f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9fe95312a3764101362093b66d9d8294\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9fe95312a3764101362093b66d9d8294\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7bc66e247933048c0d3bcdb4aefe8ccc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7bc66e247933048c0d3bcdb4aefe8ccc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ab200f6b316b2d472e7f37436b4b3b24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ab200f6b316b2d472e7f37436b4b3b24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3bb1023490c123808bc35aacf9dc4e90\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3bb1023490c123808bc35aacf9dc4e90\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1153dc65ac1185d4effcf646df6f3ecb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1153dc65ac1185d4effcf646df6f3ecb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d77ba2c85ad0e438833c8467fba95baa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d77ba2c85ad0e438833c8467fba95baa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b45023948fa717f286d8adbd88600374\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b45023948fa717f286d8adbd88600374\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7cb5713b380dc5fef419f6c6bb0c4fb9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7cb5713b380dc5fef419f6c6bb0c4fb9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\662057906944f01c719378a591962ab9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\662057906944f01c719378a591962ab9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\244af057698ca1d59e0cd90c5dd1f22b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\244af057698ca1d59e0cd90c5dd1f22b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5143fbf32e822e2c55b5dd7adc604012\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5143fbf32e822e2c55b5dd7adc604012\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bb7354f78ed35e16b1baabe8ba9a63b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bb7354f78ed35e16b1baabe8ba9a63b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4bd3871f39fd63b707d9df19b5b8130f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4bd3871f39fd63b707d9df19b5b8130f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\016f129a5104ba25c69f68e82db7e405\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\016f129a5104ba25c69f68e82db7e405\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\099d699db94f0fd8f3a43fd6f6288c26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\099d699db94f0fd8f3a43fd6f6288c26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87acd4fb3cbbb8c4656f89c6331c9704\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\87acd4fb3cbbb8c4656f89c6331c9704\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bb0b3659b3fee0d9d1495d8d7fe3bc96\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bb0b3659b3fee0d9d1495d8d7fe3bc96\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed6ec224657ab6045726e93f1c7fde0e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed6ec224657ab6045726e93f1c7fde0e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e01c986ed106871fb5865ebbaea4072d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e01c986ed106871fb5865ebbaea4072d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6e7c8a0e7e66b7213241fb9852564fc4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6e7c8a0e7e66b7213241fb9852564fc4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e14b246ae25ab76dd0625b3f9017a230\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e14b246ae25ab76dd0625b3f9017a230\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1cda1f04a66d431c037f7c2d5e804f2d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1cda1f04a66d431c037f7c2d5e804f2d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7190ebac77847f1d7b6d0e003c2dc58a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7190ebac77847f1d7b6d0e003c2dc58a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2863838aa543f5457b9c48f64e1b6445\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2863838aa543f5457b9c48f64e1b6445\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1fb0a36d15edde2d09cba461a6f20237\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1fb0a36d15edde2d09cba461a6f20237\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6354b932f076cb46db8de12ab39302a3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6354b932f076cb46db8de12ab39302a3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0b7269a84991ae8a1a7bf37db0507ba\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0b7269a84991ae8a1a7bf37db0507ba\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\f27318f3ba58462e0f9285ccf142a10d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] E:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\f27318f3ba58462e0f9285ccf142a10d\AndroidManifest.xml:5:5-7:41
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+MERGED from [:sbecomlibrary] E:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:5-25:41
+MERGED from [:sbecomlibrary] E:\use\SmsDemo1\sbecomlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:multidex:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2d997ff1e063b8b1c33cc60282f1cd20\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2d997ff1e063b8b1c33cc60282f1cd20\AndroidManifest.xml:20:5-43
+MERGED from [com.roughike:bottom-bar:2.3.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\41e0a346957206b1a61e4a9b5439bc6c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.3.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\bottom-bar-2.3.1.aar\41e0a346957206b1a61e4a9b5439bc6c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jaeger.statusbarutil:library:1.5.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\093268b2dd297dc9c616fc788d06163f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaeger.statusbarutil:library:1.5.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\library-1.5.1.aar\093268b2dd297dc9c616fc788d06163f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\fdd92be2c571b3814148bd3d59d1363b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\design-28.0.0.aar\fdd92be2c571b3814148bd3d59d1363b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0f3732af3d679d67687bdda06ae6dfdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0f3732af3d679d67687bdda06ae6dfdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\71c49ca7705c183e0bf92ad725005d61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\71c49ca7705c183e0bf92ad725005d61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d3010a4cd0d12164f3f0168227b6049a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d3010a4cd0d12164f3f0168227b6049a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\49a3a816b79fb9225416a96e382261b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\49a3a816b79fb9225416a96e382261b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\03b1cf4a5e0b77ecf4d22a7bd502dd81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\03b1cf4a5e0b77ecf4d22a7bd502dd81\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.7.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\22ef8b469269d7543b23ec728063d1a0\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\22ef8b469269d7543b23ec728063d1a0\AndroidManifest.xml:5:5-43
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.2.aar\d1aebaccccac1fbebfa3b802e3337fed\AndroidManifest.xml:16:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.2.aar\d1aebaccccac1fbebfa3b802e3337fed\AndroidManifest.xml:16:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\d39e24f3f097cd680945f3c8b177b230\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] H:\Android\cacheGradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\d39e24f3f097cd680945f3c8b177b230\AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\9333c1a9f4a38ab4e83fe363238b56dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\9333c1a9f4a38ab4e83fe363238b56dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] H:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\b8ea873cf881a1e983d9df704c63cbb3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] H:\Android\cacheGradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\b8ea873cf881a1e983d9df704c63cbb3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] H:\Android\cacheGradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\b1f89b5f70807bfb017459857ee4d451\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] H:\Android\cacheGradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\b1f89b5f70807bfb017459857ee4d451\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Blincheng:EToast2:v2.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\e8311deacd197c7c90e99cba7808025b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Blincheng:EToast2:v2.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\EToast2-v2.1.1.aar\e8311deacd197c7c90e99cba7808025b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7b9a3e20008ffd2a3a14f78cbc9d42d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7b9a3e20008ffd2a3a14f78cbc9d42d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3b70d9509e467e9bf689c9a995fa3cb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3b70d9509e467e9bf689c9a995fa3cb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\23ecc766b5c9f3bd3901419fcffaa08e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\23ecc766b5c9f3bd3901419fcffaa08e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6852e07caef7e9b1c01ef53bf5ab30d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6852e07caef7e9b1c01ef53bf5ab30d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\433fa96c7c9cf80480d0979d33ee12a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\433fa96c7c9cf80480d0979d33ee12a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4d75a1a1dca9931d13cada02202c42c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4d75a1a1dca9931d13cada02202c42c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4345a0081dfaae01f7f4278ca9ace3f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4345a0081dfaae01f7f4278ca9ace3f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\783e03601bc0eabd97d64f76816f9181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\783e03601bc0eabd97d64f76816f9181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6b22fb743454966b85910f33b721d844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6b22fb743454966b85910f33b721d844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\52006120094158995c85d33c26036f7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\52006120094158995c85d33c26036f7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ba61b0c51deb41513aa6e90e2cb44e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ba61b0c51deb41513aa6e90e2cb44e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ebbd2766fefdce93c540bdc52563305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ebbd2766fefdce93c540bdc52563305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f184470592ce76ad86660814421062a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f184470592ce76ad86660814421062a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e2ebad03408d091a93b84ad502502632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e2ebad03408d091a93b84ad502502632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\432661778378c97addb3d0fb597e9c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\432661778378c97addb3d0fb597e9c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5944b325b50d31e9c648546a7c4088cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5944b325b50d31e9c648546a7c4088cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\45503e3df9f28bb91a25a82749249700\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\45503e3df9f28bb91a25a82749249700\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f78ef8bd14ed083c6221bb5186ed4df4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f78ef8bd14ed083c6221bb5186ed4df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9d3d896ca3025866baac736080d70efb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9d3d896ca3025866baac736080d70efb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3dab21c7cd8dbef7e88b57047d756fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3dab21c7cd8dbef7e88b57047d756fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f2bb1e3ad5f8cc6aef127d9942fb4ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f2bb1e3ad5f8cc6aef127d9942fb4ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e3d9af3cf0db654146ac9cef38bba47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e3d9af3cf0db654146ac9cef38bba47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a609abbbe920486165e77167b1267da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a609abbbe920486165e77167b1267da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\75a2b85eab9d3f05fa307491063be41b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\75a2b85eab9d3f05fa307491063be41b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9bd1f322d74e57e2aa9e7088dce6539e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9bd1f322d74e57e2aa9e7088dce6539e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3349cb4b921114d0b6851c5a2f9c36f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3349cb4b921114d0b6851c5a2f9c36f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3fc59e056e255b16113544480befe641\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] H:\Android\cacheGradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3fc59e056e255b16113544480befe641\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\3037945b71d44f6a240a1623025112d0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] H:\Android\cacheGradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\3037945b71d44f6a240a1623025112d0\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		ADDED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		ADDED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\use\SmsDemo1\app\src\main\AndroidManifest.xml

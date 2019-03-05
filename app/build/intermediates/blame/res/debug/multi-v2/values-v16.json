@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\use\\SmsDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\use\\SmsDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\87acd4fb3cbbb8c4656f89c6331c9704\\res\\values-v16\\values-v16.xml",
+                    "source": "H:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\5944b325b50d31e9c648546a7c4088cc\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\6a420031eee3e503bfe39f1e79bb0c55\\res\\values-v16\\values-v16.xml",
+                    "source": "H:\\Android\\cacheGradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f3732af3d679d67687bdda06ae6dfdb\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
